@@ -2,6 +2,44 @@
 "profile":{
  "name":"bhanu sirisha",
  "label":"Istudent",
- "email":"bhanusirisha3112gmil.com",
-}
+ "email":"bhanusirisha3112gmail.com"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "degree":"B.Tech",
+  "institute":"PVPSIT",
+  "data":["2016-2020","86%"]
+  },
+  {
+    "degree":"Intermediate(M.P.C)",
+    "institute":"Sri chaitanya",
+    "data":["2014-2016","93%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Ravindra Bharathi",
+    "data":["2014","90%"]
+  }
+],
+"skills":[
+  {
+    "title":"languages",
+    "content":["c","phython","java"]
+  },
+  {
+    "title":"database",
+    "content":["SQL","mongoDB","mysql"]
+  },
+  {
+    "title":"web technologies",
+    "content":["HTML","css","javascript"]
+  },
+  {
+    "title":"frameworks",
+    "content":["Django","codeIgnitor"]
+  }
+]
 }
